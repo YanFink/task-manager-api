@@ -1,4 +1,4 @@
-# Task Manager API
+# Task Manager API (Projeto apenas para demonstrar uso de linguagens, ferramentas, softwares)
 
 Sistema de gerenciamento de tarefas construído para praticar um stack completo cloud-native: API em Java/Spring Boot, mensageria com Kafka, containerização com Docker, orquestração com Kubernetes, pipeline de CI com GitHub Actions e frontend em React.
 
