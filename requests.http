@@ -1,0 +1,10 @@
+### Criar uma tarefa
+POST http://localhost:8080/tasks
+Content-Type: application/json
+
+{
+  "title": "Estudar Docker e Kubernetes"
+}
+
+### Listar todas as tarefas
+GET http://localhost:8080/tasks
